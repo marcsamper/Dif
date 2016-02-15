@@ -1,5 +1,5 @@
-# ${1:Project Name}
-TODO: Write a project description
+# Zork
+TODO: Best game in the world
 ## Installation
 TODO: Describe the installation process
 ## Usage
